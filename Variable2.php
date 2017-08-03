@@ -5,6 +5,6 @@
     echo $x;
     echo"<br/> Now I'm gonna store a String";
     $x = "Hello";
-    echo "<br/>My new Value is :<br/>";
-    echo $x;
+    echo "<br/>My new Value is :".$x."<br/>";
+    
 ?>
